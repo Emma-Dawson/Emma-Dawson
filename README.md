@@ -1,4 +1,3 @@
-### 👩‍🎓 About me!
 
 #### 🏫 I am a recently graduated Masters student from the University of Virginia 
 #### ⛅ At UVA, I studied how tropical high cloud feedbacks drive spread in climate sensitivity across fully-coupled global climate models
